@@ -1,0 +1,159 @@
+<svg width="100%" viewBox="0 0 680 260" role="img" xmlns="http://www.w3.org/2000/svg">
+  <title>TaskFlow — Jira-Style Kanban Task Manager</title>
+  <desc>Header banner for TaskFlow project README</desc>
+
+  <!-- Base background -->
+  <rect width="680" height="260" rx="12" fill="#0D1117"/>
+
+  <!-- Subtle dot grid — full coverage, even spacing -->
+  <g fill="#1C2128">
+    <rect x="56"  y="32"  width="3" height="3" rx="1.5"/>
+    <rect x="116" y="32"  width="3" height="3" rx="1.5"/>
+    <rect x="176" y="32"  width="3" height="3" rx="1.5"/>
+    <rect x="236" y="32"  width="3" height="3" rx="1.5"/>
+    <rect x="296" y="32"  width="3" height="3" rx="1.5"/>
+    <rect x="356" y="32"  width="3" height="3" rx="1.5"/>
+    <rect x="416" y="32"  width="3" height="3" rx="1.5"/>
+    <rect x="476" y="32"  width="3" height="3" rx="1.5"/>
+    <rect x="536" y="32"  width="3" height="3" rx="1.5"/>
+    <rect x="596" y="32"  width="3" height="3" rx="1.5"/>
+    <rect x="56"  y="80"  width="3" height="3" rx="1.5"/>
+    <rect x="116" y="80"  width="3" height="3" rx="1.5"/>
+    <rect x="176" y="80"  width="3" height="3" rx="1.5"/>
+    <rect x="236" y="80"  width="3" height="3" rx="1.5"/>
+    <rect x="476" y="80"  width="3" height="3" rx="1.5"/>
+    <rect x="536" y="80"  width="3" height="3" rx="1.5"/>
+    <rect x="596" y="80"  width="3" height="3" rx="1.5"/>
+    <rect x="56"  y="128" width="3" height="3" rx="1.5"/>
+    <rect x="116" y="128" width="3" height="3" rx="1.5"/>
+    <rect x="476" y="128" width="3" height="3" rx="1.5"/>
+    <rect x="536" y="128" width="3" height="3" rx="1.5"/>
+    <rect x="596" y="128" width="3" height="3" rx="1.5"/>
+    <rect x="56"  y="176" width="3" height="3" rx="1.5"/>
+    <rect x="116" y="176" width="3" height="3" rx="1.5"/>
+    <rect x="476" y="176" width="3" height="3" rx="1.5"/>
+    <rect x="536" y="176" width="3" height="3" rx="1.5"/>
+    <rect x="596" y="176" width="3" height="3" rx="1.5"/>
+    <rect x="56"  y="224" width="3" height="3" rx="1.5"/>
+    <rect x="116" y="224" width="3" height="3" rx="1.5"/>
+    <rect x="476" y="224" width="3" height="3" rx="1.5"/>
+    <rect x="536" y="224" width="3" height="3" rx="1.5"/>
+    <rect x="596" y="224" width="3" height="3" rx="1.5"/>
+  </g>
+
+  <!-- Right side: mini kanban columns decoration -->
+  <!-- Col 1 bg -->
+  <rect x="454" y="48" width="62" height="148" rx="6" fill="#161B22" stroke="#21262D" stroke-width="1"/>
+  <!-- Col 2 bg -->
+  <rect x="526" y="48" width="62" height="148" rx="6" fill="#161B22" stroke="#21262D" stroke-width="1"/>
+  <!-- Col 3 bg -->
+  <rect x="598" y="48" width="62" height="148" rx="6" fill="#161B22" stroke="#21262D" stroke-width="1"/>
+
+  <!-- Col 1 label -->
+  <rect x="462" y="58" width="46" height="13" rx="3" fill="#21262D"/>
+  <text x="485" y="68" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif" font-size="7" font-weight="700" fill="#8B949E" letter-spacing="0.4">TO DO</text>
+
+  <!-- Col 1 cards -->
+  <rect x="462" y="78"  width="46" height="30" rx="3" fill="#0D1117" stroke="#30363D" stroke-width="0.5"/>
+  <rect x="462" y="78"  width="3"  height="30" rx="1" fill="#FF7452"/>
+  <rect x="469" y="84"  width="26" height="4" rx="2" fill="#21262D"/>
+  <rect x="469" y="92"  width="18" height="3" rx="1.5" fill="#1C2128"/>
+
+  <rect x="462" y="115" width="46" height="30" rx="3" fill="#0D1117" stroke="#30363D" stroke-width="0.5"/>
+  <rect x="462" y="115" width="3"  height="30" rx="1" fill="#F5A623"/>
+  <rect x="469" y="121" width="30" height="4" rx="2" fill="#21262D"/>
+  <rect x="469" y="129" width="20" height="3" rx="1.5" fill="#1C2128"/>
+
+  <rect x="462" y="152" width="46" height="30" rx="3" fill="#0D1117" stroke="#30363D" stroke-width="0.5"/>
+  <rect x="462" y="152" width="3"  height="30" rx="1" fill="#2684FF"/>
+  <rect x="469" y="158" width="22" height="4" rx="2" fill="#21262D"/>
+  <rect x="469" y="166" width="32" height="3" rx="1.5" fill="#1C2128"/>
+
+  <!-- Col 2 label (blue) -->
+  <rect x="534" y="58" width="46" height="13" rx="3" fill="#0C66E4" opacity="0.2"/>
+  <text x="557" y="68" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif" font-size="6" font-weight="700" fill="#4C9AFF" letter-spacing="0.3">IN PROGRESS</text>
+
+  <!-- Col 2 cards -->
+  <rect x="534" y="78"  width="46" height="30" rx="3" fill="#0D1117" stroke="#0C66E4" stroke-width="0.5"/>
+  <rect x="534" y="78"  width="3"  height="30" rx="1" fill="#FF5630"/>
+  <rect x="541" y="84"  width="28" height="4" rx="2" fill="#21262D"/>
+  <rect x="541" y="92"  width="16" height="3" rx="1.5" fill="#1C2128"/>
+
+  <rect x="534" y="115" width="46" height="30" rx="3" fill="#0D1117" stroke="#30363D" stroke-width="0.5"/>
+  <rect x="534" y="115" width="3"  height="30" rx="1" fill="#F5A623"/>
+  <rect x="541" y="121" width="24" height="4" rx="2" fill="#21262D"/>
+  <rect x="541" y="129" width="34" height="3" rx="1.5" fill="#1C2128"/>
+
+  <!-- Col 3 label (green) -->
+  <rect x="606" y="58" width="46" height="13" rx="3" fill="#1C3829"/>
+  <text x="629" y="68" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif" font-size="7" font-weight="700" fill="#3FB950" letter-spacing="0.4">DONE</text>
+
+  <!-- Col 3 cards (strikethrough = done) -->
+  <rect x="606" y="78"  width="46" height="30" rx="3" fill="#0D1117" stroke="#238636" stroke-width="0.5" opacity="0.75"/>
+  <rect x="606" y="78"  width="3"  height="30" rx="1" fill="#3FB950" opacity="0.7"/>
+  <rect x="613" y="84"  width="24" height="4" rx="2" fill="#21262D" opacity="0.6"/>
+  <line x1="613" y1="86" x2="637" y2="86" stroke="#3FB950" stroke-width="1" opacity="0.5"/>
+  <rect x="613" y="92"  width="18" height="3" rx="1.5" fill="#1C2128" opacity="0.6"/>
+
+  <rect x="606" y="115" width="46" height="30" rx="3" fill="#0D1117" stroke="#238636" stroke-width="0.5" opacity="0.75"/>
+  <rect x="606" y="115" width="3"  height="30" rx="1" fill="#3FB950" opacity="0.7"/>
+  <rect x="613" y="121" width="28" height="4" rx="2" fill="#21262D" opacity="0.6"/>
+  <line x1="613" y1="123" x2="641" y2="123" stroke="#3FB950" stroke-width="1" opacity="0.5"/>
+  <rect x="613" y="129" width="22" height="3" rx="1.5" fill="#1C2128" opacity="0.6"/>
+
+  <!-- ═══ LEFT CONTENT AREA ═══ -->
+
+  <!-- Logo block — y:50, height:56 -->
+  <rect x="36" y="50" width="56" height="56" rx="14" fill="#0C66E4"/>
+  <text x="64" y="86" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif" font-size="22" font-weight="800" fill="#FFFFFF">TF</text>
+
+  <!-- Title — 16px gap below logo top (y:50+20=70 baseline) -->
+  <text x="106" y="76" font-family="'Segoe UI',system-ui,sans-serif" font-size="30" font-weight="800" fill="#E6EDF3" letter-spacing="-1">TaskFlow</text>
+
+  <!-- Subtitle — 20px below title baseline -->
+  <text x="106" y="99" font-family="'Segoe UI',system-ui,sans-serif" font-size="13" font-weight="400" fill="#8B949E">Jira-Style Kanban Board  ·  Vanilla JS  ·  No Frameworks</text>
+
+  <!-- Divider — 24px below subtitle -->
+  <line x1="36" y1="126" x2="440" y2="126" stroke="#21262D" stroke-width="1"/>
+
+  <!-- ── Badge Row 1: Tech Stack — y:142 (16px gap after divider) ── -->
+  <rect x="36"  y="142" width="54" height="22" rx="11" fill="#0C66E4" opacity="0.15" stroke="#0C66E4" stroke-width="0.5"/>
+  <text x="63"  y="157" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif" font-size="10" font-weight="600" fill="#4C9AFF">HTML5</text>
+
+  <rect x="98"  y="142" width="46" height="22" rx="11" fill="#1C3829" stroke="#238636" stroke-width="0.5"/>
+  <text x="121" y="157" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif" font-size="10" font-weight="600" fill="#3FB950">CSS3</text>
+
+  <rect x="152" y="142" width="84" height="22" rx="11" fill="#2C1E00" stroke="#F5A623" stroke-width="0.5"/>
+  <text x="194" y="157" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif" font-size="10" font-weight="600" fill="#E3B341">JavaScript ES6+</text>
+
+  <rect x="244" y="142" width="84" height="22" rx="11" fill="#161B22" stroke="#30363D" stroke-width="0.5"/>
+  <text x="286" y="157" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif" font-size="10" font-weight="600" fill="#8B949E">No Frameworks</text>
+
+  <rect x="336" y="142" width="76" height="22" rx="11" fill="#1C3829" stroke="#238636" stroke-width="0.5"/>
+  <text x="374" y="157" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif" font-size="10" font-weight="600" fill="#3FB950">localStorage</text>
+
+  <!-- ── Badge Row 2: Features — y:176 (12px gap) ── -->
+  <rect x="36"  y="176" width="94" height="22" rx="11" fill="#161B22" stroke="#30363D" stroke-width="0.5"/>
+  <circle cx="52" cy="187" r="4" fill="#FF5630"/>
+  <text x="75"  y="191" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif" font-size="10" font-weight="600" fill="#8B949E">Drag &amp; Drop</text>
+
+  <rect x="138" y="176" width="82" height="22" rx="11" fill="#161B22" stroke="#30363D" stroke-width="0.5"/>
+  <circle cx="154" cy="187" r="4" fill="#4C9AFF"/>
+  <text x="179" y="191" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif" font-size="10" font-weight="600" fill="#8B949E">Dark Mode</text>
+
+  <rect x="228" y="176" width="72" height="22" rx="11" fill="#161B22" stroke="#30363D" stroke-width="0.5"/>
+  <circle cx="244" cy="187" r="4" fill="#3FB950"/>
+  <text x="264" y="191" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif" font-size="10" font-weight="600" fill="#8B949E">Archive</text>
+
+  <rect x="308" y="176" width="108" height="22" rx="11" fill="#161B22" stroke="#30363D" stroke-width="0.5"/>
+  <circle cx="324" cy="187" r="4" fill="#E3B341"/>
+  <text x="362" y="191" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif" font-size="10" font-weight="600" fill="#8B949E">Kbd Shortcuts</text>
+
+  <!-- ── Bottom Row: Score + Bootcamp — y:212 (14px gap) ── -->
+  <rect x="36"  y="212" width="118" height="24" rx="6" fill="#0C66E4"/>
+  <text x="95"  y="228" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif" font-size="11" font-weight="700" fill="#FFFFFF">100/100 Target Score</text>
+
+  <rect x="162" y="212" width="248" height="24" rx="6" fill="#161B22" stroke="#21262D" stroke-width="0.5"/>
+  <text x="286" y="228" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif" font-size="10" font-weight="400" fill="#6E7681">MERN Stack + AI Engineering Bootcamp  ·  2025</text>
+
+</svg>

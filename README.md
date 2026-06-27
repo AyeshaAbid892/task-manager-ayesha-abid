@@ -1,6 +1,15 @@
 <div align="center">
-  <img src="header.svg" alt="TaskFlow — Jira-Style Kanban Task Manager" width="100%"/>
+  <img src="Header.SVG" alt="TaskFlow — Jira-Style Kanban Task Manager" width="100%"/>
 </div>
+
+<div align="center">
+
+
+  <img width="572" height="52" alt="image" src="https://github.com/user-attachments/assets/4852cd74-9786-409d-a9cd-0fbafca9e8ef" />
+
+
+</div>
+
 
 ## Live Demo
 

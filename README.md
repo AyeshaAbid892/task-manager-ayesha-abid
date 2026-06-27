@@ -1214,20 +1214,4 @@ This project was built to be explained — every architectural decision has a re
   <text x="648" y="106" text-anchor="end" font-family="'Inter',system-ui,sans-serif" font-size="11" font-weight="400" fill="#4C9AFF">MERN Stack + AI Engineering Bootcamp · 2025</text>
 </svg>
 
-</div>
-## Video Walkthrough
-
-🎥 **[Watch the walkthrough (YouTube — unlisted)](https://youtube.com/watch?v=your-video-id)**
-
-Duration: ~4 minutes. Covers all core features, bonus features, DevTools demonstration of the tasks array, and localStorage inspection.
-
----
-
-## Submission
-
-- **GitHub Repository:** `https://github.com/your-username/task-manager-your-name`
-- **Live Demo:** `https://your-username.github.io/task-manager-your-name`
-
----
-
-*MERN Stack + AI Engineering Bootcamp — Monthly Evaluation Assignment*
+</div> 

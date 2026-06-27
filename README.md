@@ -1,58 +1,6 @@
 <div align="center">
-
-<svg width="100%" viewBox="0 0 680 180" role="img" xmlns="http://www.w3.org/2000/svg">
-  <title>TaskFlow — Kanban Task Manager README Header</title>
-  <desc>Professional header banner for TaskFlow project showing logo, title, badges, and tech stack</desc>
-
-  <rect width="680" height="180" fill="#1D2125" rx="10"/>
-  <line x1="0" y1="48" x2="680" y2="48" stroke="#2C333A" stroke-width="0.5"/>
-  <line x1="0" y1="132" x2="680" y2="132" stroke="#2C333A" stroke-width="0.5"/>
-  <rect x="0" y="0" width="4" height="180" fill="#0C66E4" rx="2"/>
-
-  <!-- Logo -->
-  <rect x="32" y="56" width="36" height="36" rx="6" fill="#0C66E4"/>
-  <text x="50" y="81" text-anchor="middle" font-family="'Inter',system-ui,sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">TF</text>
-
-  <!-- Title -->
-  <text x="82" y="73" font-family="'Inter',system-ui,sans-serif" font-size="22" font-weight="700" fill="#C7D1DB" letter-spacing="-0.5">TaskFlow</text>
-  <text x="82" y="95" font-family="'Inter',system-ui,sans-serif" font-size="13" font-weight="400" fill="#738496">Jira-style Kanban Task Manager — Pure HTML + CSS + Vanilla JavaScript</text>
-
-  <line x1="32" y1="112" x2="648" y2="112" stroke="#2C333A" stroke-width="0.5"/>
-
-  <!-- Badges -->
-  <rect x="32" y="124" width="60" height="22" rx="3" fill="#1C2B41"/>
-  <text x="62" y="139" text-anchor="middle" font-family="'Inter',system-ui,sans-serif" font-size="11" font-weight="600" fill="#4C9AFF">HTML5</text>
-
-  <rect x="100" y="124" width="52" height="22" rx="3" fill="#1C3829"/>
-  <text x="126" y="139" text-anchor="middle" font-family="'Inter',system-ui,sans-serif" font-size="11" font-weight="600" fill="#4BCE97">CSS3</text>
-
-  <rect x="160" y="124" width="92" height="22" rx="3" fill="#2C1E00"/>
-  <text x="206" y="139" text-anchor="middle" font-family="'Inter',system-ui,sans-serif" font-size="11" font-weight="600" fill="#FFC400">JavaScript ES6+</text>
-
-  <rect x="260" y="124" width="90" height="22" rx="3" fill="#1C2B41"/>
-  <text x="305" y="139" text-anchor="middle" font-family="'Inter',system-ui,sans-serif" font-size="11" font-weight="600" fill="#4C9AFF">localStorage</text>
-
-  <rect x="358" y="124" width="108" height="22" rx="3" fill="#2C1515"/>
-  <text x="412" y="139" text-anchor="middle" font-family="'Inter',system-ui,sans-serif" font-size="11" font-weight="600" fill="#FF8F73">Zero Frameworks</text>
-
-  <rect x="474" y="124" width="76" height="22" rx="3" fill="#1C3829"/>
-  <text x="512" y="139" text-anchor="middle" font-family="'Inter',system-ui,sans-serif" font-size="11" font-weight="600" fill="#4BCE97">100 Marks</text>
-
-  <rect x="558" y="124" width="90" height="22" rx="3" fill="#1C2B41"/>
-  <text x="603" y="139" text-anchor="middle" font-family="'Inter',system-ui,sans-serif" font-size="11" font-weight="600" fill="#85BBF0">Jira-Inspired UI</text>
-
-  <!-- Top right labels -->
-  <text x="648" y="30" text-anchor="end" font-family="'Inter',system-ui,sans-serif" font-size="11" font-weight="400" fill="#738496">MERN Stack + AI Engineering Bootcamp</text>
-  <text x="648" y="46" text-anchor="end" font-family="'Inter',system-ui,sans-serif" font-size="11" font-weight="500" fill="#4C9AFF">Monthly Evaluation — Assignment</text>
-  <text x="648" y="164" text-anchor="end" font-family="'Inter',system-ui,sans-serif" font-size="11" font-weight="400" fill="#738496">v1.0.0 · 2025</text>
-</svg>
-
+  <img src="header.svg" alt="TaskFlow — Jira-Style Kanban Task Manager" width="100%"/>
 </div>
-
-
-> A professional, production-quality Kanban board built entirely with HTML, CSS, and Vanilla JavaScript. Designed to mirror the exact visual language, interaction patterns, and UX of Atlassian Jira — with zero frameworks, zero dependencies, and full localStorage persistence.
-
----
 
 ## Live Demo
 
@@ -1175,43 +1123,7 @@ This project was built to be explained — every architectural decision has a re
 *Assignment: Kanban Task Manager — HTML + CSS + JavaScript*  
 *Total Marks: 100 (60% Assignment + 40% Interview)*
 
----
 
 <div align="center">
-
-<svg width="100%" viewBox="0 0 680 120" role="img" xmlns="http://www.w3.org/2000/svg">
-  <title>TaskFlow README Footer</title>
-  <desc>Professional footer banner showing project stats and attribution</desc>
-
-  <rect width="680" height="120" fill="#1D2125" rx="10"/>
-  <rect x="0" y="0" width="680" height="3" fill="#0C66E4" rx="2"/>
-  <rect x="0" y="117" width="680" height="3" fill="#2C333A" rx="2"/>
-
-  <!-- Stat blocks -->
-  <rect x="32" y="20" width="100" height="52" rx="4" fill="#22272B"/>
-  <text x="82" y="44" text-anchor="middle" font-family="'Inter',system-ui,sans-serif" font-size="20" font-weight="700" fill="#4C9AFF">11</text>
-  <text x="82" y="62" text-anchor="middle" font-family="'Inter',system-ui,sans-serif" font-size="10" font-weight="400" fill="#738496">Source Files</text>
-
-  <rect x="142" y="20" width="100" height="52" rx="4" fill="#22272B"/>
-  <text x="192" y="44" text-anchor="middle" font-family="'Inter',system-ui,sans-serif" font-size="20" font-weight="700" fill="#4BCE97">3200+</text>
-  <text x="192" y="62" text-anchor="middle" font-family="'Inter',system-ui,sans-serif" font-size="10" font-weight="400" fill="#738496">Lines of Code</text>
-
-  <rect x="252" y="20" width="100" height="52" rx="4" fill="#22272B"/>
-  <text x="302" y="44" text-anchor="middle" font-family="'Inter',system-ui,sans-serif" font-size="20" font-weight="700" fill="#FFC400">22</text>
-  <text x="302" y="62" text-anchor="middle" font-family="'Inter',system-ui,sans-serif" font-size="10" font-weight="400" fill="#738496">Core Features</text>
-
-  <rect x="362" y="20" width="100" height="52" rx="4" fill="#22272B"/>
-  <text x="412" y="44" text-anchor="middle" font-family="'Inter',system-ui,sans-serif" font-size="20" font-weight="700" fill="#FF8F73">5/5</text>
-  <text x="412" y="62" text-anchor="middle" font-family="'Inter',system-ui,sans-serif" font-size="10" font-weight="400" fill="#738496">Bonus Features</text>
-
-  <rect x="472" y="20" width="100" height="52" rx="4" fill="#0C66E4"/>
-  <text x="522" y="44" text-anchor="middle" font-family="'Inter',system-ui,sans-serif" font-size="20" font-weight="700" fill="#FFFFFF">100</text>
-  <text x="522" y="62" text-anchor="middle" font-family="'Inter',system-ui,sans-serif" font-size="10" font-weight="600" fill="#CCE0FF">Target Score</text>
-
-  <line x1="32" y1="86" x2="648" y2="86" stroke="#2C333A" stroke-width="0.5"/>
-
-  <text x="32" y="106" font-family="'Inter',system-ui,sans-serif" font-size="11" font-weight="400" fill="#738496">Built with HTML · CSS · Vanilla JavaScript · No frameworks · No dependencies</text>
-  <text x="648" y="106" text-anchor="end" font-family="'Inter',system-ui,sans-serif" font-size="11" font-weight="400" fill="#4C9AFF">MERN Stack + AI Engineering Bootcamp · 2025</text>
-</svg>
-
-</div> 
+  <img src="Footer.SVG" alt="TaskFlow project stats footer" width="100%"/>
+</div>

@@ -1,0 +1,62 @@
+/* ═══════════════════════════════════════
+   JIRA DARK MODE — Atlassian Dark Theme
+   Exact colors from Jira's dark UI
+═══════════════════════════════════════ */
+
+[data-theme="dark"] {
+  --jira-bg:             #1D2125;
+  --jira-surface:        #22272B;
+  --jira-surface-raised: #282E33;
+  --jira-sidebar-bg:     #22272B;
+  --jira-nav-bg:         #1D2125;
+  --jira-col-bg:         #282E33;
+  --jira-card-bg:        #22272B;
+  --jira-border:         #2C333A;
+  --jira-border-input:   #738496;
+  --jira-border-focus:   #4C9AFF;
+
+  --jira-text-primary:   #C7D1DB;
+  --jira-text-secondary: #9FADBC;
+  --jira-text-subtle:    #738496;
+  --jira-text-nav:       #9FADBC;
+  --jira-text-nav-hover: #C7D1DB;
+
+  --jira-blue:           #4C9AFF;
+  --jira-blue-hover:     #2684FF;
+  --jira-blue-light:     #1C2B41;
+  --jira-blue-subtle:    #1C3352;
+
+  --lozenge-todo-bg:     #2C333A;
+  --lozenge-todo-text:   #9FADBC;
+  --lozenge-inprog-bg:   #1C2B41;
+  --lozenge-inprog-text: #4C9AFF;
+  --lozenge-done-bg:     #1C3829;
+  --lozenge-done-text:   #4BCE97;
+
+  --prio-highest:        #FF8F73;
+  --prio-high:           #FFB380;
+  --prio-medium:         #FFC400;
+  --prio-low:            #4C9AFF;
+  --prio-lowest:         #85BBF0;
+
+  --jira-red:            #E2483D;
+  --jira-red-light:      #2C1E1E;
+  --jira-red-text:       #FF8F73;
+
+  --jira-green:          #4BCE97;
+  --jira-green-light:    #1C3829;
+
+  --shadow-card:         0 1px 1px rgba(0,0,0,0.4), 0 0 0 1px rgba(255,255,255,0.04);
+  --shadow-card-hover:   0 4px 8px rgba(0,0,0,0.5), 0 0 0 1px rgba(255,255,255,0.06);
+  --shadow-modal:        0 8px 16px rgba(0,0,0,0.5);
+  --shadow-overlay:      0 20px 32px rgba(0,0,0,0.6), 0 0 0 1px rgba(255,255,255,0.04);
+}
+
+[data-theme="dark"] .jira-topnav { border-bottom-color: rgba(255,255,255,0.04); }
+[data-theme="dark"] .jira-toast  { background: #2C333A; }
+[data-theme="dark"] .card-label  { background: #1C3352; color: #85BBF0; }
+[data-theme="dark"] .detail-tag  { background: #1C3352; color: #85BBF0; }
+[data-theme="dark"] .jira-tag-pill { background: #1C3352; color: #85BBF0; }
+[data-theme="dark"] .btn-restore  { background: #1C2B41; color: #4C9AFF; }
+[data-theme="dark"] .btn-restore:hover { background: #1C3352; }
+[data-theme="dark"] .issue-detail-panel { background: var(--jira-surface); }

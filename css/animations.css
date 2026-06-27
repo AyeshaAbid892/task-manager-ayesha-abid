@@ -1,0 +1,32 @@
+/* ═══════════════════════════════
+   ANIMATIONS — Jira-style subtle
+═══════════════════════════════ */
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { animation-duration: 0.01ms !important; transition-duration: 0.01ms !important; }
+}
+
+@keyframes toastIn  { from { opacity:0; transform:translateY(8px); } to { opacity:1; transform:translateY(0); } }
+@keyframes toastOut { from { opacity:1; } to { opacity:0; transform:translateY(8px); } }
+@keyframes cardIn   { from { opacity:0; transform:translateY(-6px); } to { opacity:1; transform:translateY(0); } }
+@keyframes modalIn  { from { opacity:0; transform:translateY(-12px) scale(0.98); } to { opacity:1; transform:translateY(0) scale(1); } }
+@keyframes slideIn  { from { transform:translateX(100%); } to { transform:translateX(0); } }
+@keyframes overlayIn{ from { opacity:0; } to { opacity:1; } }
+@keyframes statPulse{ 0%,100%{transform:scale(1);} 50%{transform:scale(1.12);} }
+
+.jira-modal-overlay:not(.hidden) { animation: overlayIn 0.15s ease; }
+.jira-modal-overlay:not(.hidden) .jira-modal,
+.jira-modal-overlay:not(.hidden) .jira-confirm { animation: modalIn 0.2s cubic-bezier(0.23,1,0.32,1); }
+
+.issue-detail-panel { animation: slideIn 0.25s cubic-bezier(0.23,1,0.32,1); }
+.task-card { animation: cardIn 0.15s ease; }
+.stat-pulse { animation: statPulse 0.25s ease; }
+
+/* Jira col-body hover drop target */
+.col-body { transition: background 0.15s, outline 0.15s; }
+.kanban-col.drag-over { outline: none; }
+
+/* Theme transition */
+body, .jira-topnav, .jira-sidebar, .kanban-col, .task-card, .jira-modal,
+.jira-stats-bar, .board-header, .board-controls, .issue-detail-panel {
+  transition: background-color 0.2s ease, border-color 0.2s ease, color 0.15s ease;
+}

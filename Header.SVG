@@ -134,19 +134,19 @@
 
   <!-- ── Badge Row 2: Features — y:176 (12px gap) ── -->
   <rect x="36"  y="176" width="94" height="22" rx="11" fill="#161B22" stroke="#30363D" stroke-width="0.5"/>
-  <circle cx="52" cy="187" r="4" fill="#FF5630"/>
+
   <text x="75"  y="191" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif" font-size="10" font-weight="600" fill="#8B949E">Drag &amp; Drop</text>
 
   <rect x="138" y="176" width="82" height="22" rx="11" fill="#161B22" stroke="#30363D" stroke-width="0.5"/>
-  <circle cx="154" cy="187" r="4" fill="#4C9AFF"/>
+
   <text x="179" y="191" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif" font-size="10" font-weight="600" fill="#8B949E">Dark Mode</text>
 
   <rect x="228" y="176" width="72" height="22" rx="11" fill="#161B22" stroke="#30363D" stroke-width="0.5"/>
-  <circle cx="244" cy="187" r="4" fill="#3FB950"/>
+
   <text x="264" y="191" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif" font-size="10" font-weight="600" fill="#8B949E">Archive</text>
 
   <rect x="308" y="176" width="108" height="22" rx="11" fill="#161B22" stroke="#30363D" stroke-width="0.5"/>
-  <circle cx="324" cy="187" r="4" fill="#E3B341"/>
+
   <text x="362" y="191" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif" font-size="10" font-weight="600" fill="#8B949E">Kbd Shortcuts</text>
 
   <!-- ── Bottom Row: Score + Bootcamp — y:212 (14px gap) ── -->

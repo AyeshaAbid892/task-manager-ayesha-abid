@@ -13,7 +13,8 @@
 
 ## Live Demo
 
-🔗 **[Live Demo](https://your-username.github.io/task-manager-your-name)**  
+🔗 **[Live Demo](https://task-manager-ayesha-abid.vercel.app)**  
+<br>
 🎥 **[Video Walkthrough](https://youtube.com/watch?v=your-video-id)** *(3–5 min screen recording)*
 
 > **Deployment:** GitHub Pages — Settings → Pages → Source: `main` / `root` → Save
@@ -390,7 +391,9 @@ v- **Tab switching:** `showTab(col)` in `ui.js` toggles `.active` on `.col-tab` 
 #### Output / Result
 >Full three-column view on desktop. Single-column tab view on mobile with smooth transitions. Modals slide up from the bottom on mobile. Stats bar wraps with `flex-wrap: wrap` so no overflow occurs.
 
+<img width="400" height="600" alt="image" src="https://github.com/user-attachments/assets/4992615b-7983-44d3-af55-cbc47cfabd85" />
 
+<img width="1316" height="673" alt="image" src="https://github.com/user-attachments/assets/c805a587-2dd8-4174-9e59-99aaa7c57680" />
 
 ---
 
@@ -1170,9 +1173,26 @@ const tasks = JSON.parse(localStorage.getItem('taskflow_tasks')) || [];
 
 ---
 
+
+
 *MERN Stack + AI Engineering Bootcamp — Monthly Performance Evaluation*  
 *Assignment: Kanban Task Manager — HTML + CSS + JavaScript*  
 *Total Marks: 100 (60% Assignment + 40% Interview)*
+
+<div align="center">
+
+**✦ Author ✦**
+
+**Ayesha Abid**
+<div align="center">
+🐙 GitHub: [@your-username](https://github.com/AyeshaAbid892)<br>
+💼 LinkedIn: [your-profile](https://www.linkedin.com/in/ayesha-abid33/)<br>
+📧 Email: ayeshaa.abid33@gmail.com
+
+---
+
+
+<div align="center">
 
 
 <div align="center">

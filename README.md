@@ -15,7 +15,7 @@
 
 🔗 **[Live Demo](https://task-manager-ayesha-abid.vercel.app)**  
 <br>
-🎥 **[Video Walkthrough](https://youtube.com/watch?v=your-video-id)** *(3–5 min screen recording)*
+🎥 **[Video Walkthrough](https://youtu.be/JqQxSIju80s)** *(3–5 min screen recording)*
 
 > **Deployment:** GitHub Pages — Settings → Pages → Source: `main` / `root` → Save
 
